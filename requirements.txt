@@ -1,0 +1,7 @@
+kivy==2.3.0 #building the user interface of the application
+matplotlib==3.7.1 #graph plotting 
+numpy==1.24.0 #for mathematical operations
+Flask==2.2.5 #developing an API for tutor recommendations
+pytest==7.2.0 #writing and running tests
+
+
