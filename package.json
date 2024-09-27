@@ -1,5 +1,5 @@
 {
-  "name": "graphproject",
+  "name": "@imane01/graphproject",
   "version": "1.0.0",
   "description": "A project for graph plotting and tutor recommendations",
   "main": "index.js",
